@@ -1,2 +1,2 @@
 # Myproject
-# By bello james oluwaseun
+# Website Designs
